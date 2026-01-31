@@ -1,0 +1,9 @@
+{
+	"name": "azure-data-factory-demo-de",
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2abe84ae-639f-44d4-8dc8-6b0b89a8725c",
+		"tenantId": "2e4c4699-333e-4683-9f35-9a0de9c071db"
+	}
+}
